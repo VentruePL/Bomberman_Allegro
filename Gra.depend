@@ -1,0 +1,110 @@
+# depslib dependency file v1.0
+1510707725 source:c:\users\mateusz\desktop\gra\gra\main.cpp
+	<iostream>
+	<allegro.h>
+	"include/engine.h"
+
+1510099346 source:c:\users\mateusz\desktop\gra\gra\src\menu.cpp
+	"menu.h"
+
+1510100526 c:\users\mateusz\desktop\gra\gra\include\menu.h
+	<string>
+	<allegro.h>
+	<vector>
+
+1510096699 source:c:\users\mateusz\desktop\gra\gra\src\m_pozycja.cpp
+	"m_pozycja.h"
+
+1510097480 c:\users\mateusz\desktop\gra\gra\include\m_pozycja.h
+	<string>
+
+1510785103 source:c:\users\mateusz\desktop\gra\gra\src\engine.cpp
+	"engine.h"
+
+1510718281 c:\users\mateusz\desktop\gra\gra\include\engine.h
+	<iostream>
+	<allegro.h>
+	<obrazki.h>
+	<player.h>
+	<bomba.h>
+	<vector>
+	<mapa.h>
+	<kolizja_mapa.h>
+	<wrog.h>
+	<kolizja_postaci.h>
+
+1144793178 c:\users\mateusz\desktop\gra\gra\include\alpng.h
+
+1510165318 source:c:\users\mateusz\desktop\gra\gra\src\czas.cpp
+	"czas.h"
+
+1510165574 c:\users\mateusz\desktop\gra\gra\include\czas.h
+
+1510788573 c:\users\mateusz\desktop\gra\gra\include\mapa.h
+	<allegro.h>
+	<iostream>
+	<obrazki.h>
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
+1510789189 source:c:\users\mateusz\desktop\gra\gra\src\mapa.cpp
+	"mapa.h"
+
+1510717108 c:\users\mateusz\desktop\gra\gra\include\obrazki.h
+	<allegro.h>
+	<iostream>
+
+1510713585 source:c:\users\mateusz\desktop\gra\gra\src\obrazki.cpp
+	"obrazki.h"
+
+1510786313 c:\users\mateusz\desktop\gra\gra\include\player.h
+	<allegro.h>
+	<obrazki.h>
+	<iostream>
+
+1510720634 source:c:\users\mateusz\desktop\gra\gra\src\player.cpp
+	"player.h"
+
+1510793240 source:c:\users\mateusz\desktop\gra\gra\src\kolizja_mapa.cpp
+	"kolizja_mapa.h"
+
+1510465706 c:\users\mateusz\desktop\gra\gra\include\kolizja_mapa.h
+	<allegro.h>
+	<player.h>
+	<mapa.h>
+	<engine.h>
+	<math.h>
+	<vector>
+	<wrog.h>
+
+1510791722 source:c:\users\mateusz\desktop\gra\gra\src\bomba.cpp
+	"bomba.h"
+
+1510790818 c:\users\mateusz\desktop\gra\gra\include\bomba.h
+	<allegro.h>
+	<player.h>
+	<mapa.h>
+	<vector>
+	<iostream>
+
+1510485106 c:\users\mateusz\desktop\gra\gra\include\wrog.h
+	<allegro.h>
+	<iostream>
+	<obrazki.h>
+	<cstdlib>
+
+1510720278 source:c:\users\mateusz\desktop\gra\gra\src\wrog.cpp
+	"wrog.h"
+
+1510710504 c:\users\mateusz\desktop\gra\gra\include\kolizja_postaci.h
+	<allegro.h>
+	<vector>
+	<player.h>
+	<wrog.h>
+	<iostream>
+
+1510710951 source:c:\users\mateusz\desktop\gra\gra\src\kolizja_postaci.cpp
+	"kolizja_postaci.h"
+
